@@ -9,7 +9,7 @@ MOSTRAR TODA LA COLECCION
 MENU
 MOSTRAR MENU
 
-Variables:
+Variables Globales-Locales:
 titulo
 autor
 editorial
