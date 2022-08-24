@@ -1,1 +1,17 @@
 # TallerLaboratorio01
+
+Metodos:
+AGREGAR LIBRO
+BUSCAR LIBRO
+MOSTRAR ESPACIOS USADOS
+MOSTRAR ESPACIOS DISPONIBLES
+MOSTRAR TODA LA COLECCION
+MENU
+MOSTRAR MENU
+
+Variables Globales-Locales:
+titulo
+autor
+editorial
+mis libros
+libros
